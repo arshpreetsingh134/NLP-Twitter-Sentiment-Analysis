@@ -1,6 +1,6 @@
 # NLP: Twitter Sentiment Analysis using Multinomial Naïve-Bayes Classifier
 
-I have trained a **Naive Bayes classifier** to predict sentiment from thousands of Twitter tweets. This project could practically be used by any company with a social media presence to automatically predict customer's sentiment (i.e., whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews.
+I have trained a **Naive Bayes classifier** to predict sentiment from thousands of Twitter tweets as 'happy' or 'sad'. This project could practically be used by any company with a social media presence to automatically predict customer's sentiment (i.e., whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews.
 
 Dataset used is the famous **Sentiment140** which is freely available to download from [this website.](https://nyc3.digitaloceanspaces.com/ml-files-distro/v1/sentiment-analysis-is-bad/data/training.1600000.processed.noemoticon.csv.zip)
 
